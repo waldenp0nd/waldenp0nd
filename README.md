@@ -10,7 +10,7 @@
 
 ### ☕️ Get in touch
 
-- BattleNet: **Waldenpond#11608**
+- Battle.net: **Waldenpond#11608**
 - Twitter: [@waldengaming](https://twitter.com/waldengaming)
 
 <!--
