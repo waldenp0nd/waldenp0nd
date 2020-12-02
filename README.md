@@ -2,6 +2,8 @@
 
 ### 📑 Select Projects
 
+**[Oribos Flight Attendant](https://github.com/waldenp0nd/OribosFlightAttendant/)** — “Simply adds a native waypoint to your map when you’re in the Ring of Transference that points to the Flight Master.”
+
 **[Ravenous Mounts](https://github.com/waldenp0nd/ravMounts/)** — “Chooses the best Mount for the job without any set-up; it’s all based on your Mount Journal Favorites. Minimal in-game configuration to customise your summoning experience. Can even clone your target's mount (if you have it too)!”
 
 **[Ravenous Nameplates](https://github.com/waldenp0nd/ravNameplates/)** — “Cycles through four different nameplate configurations: enemy, friendly, all, none.”
@@ -11,6 +13,7 @@
 ### ☕️ Get in touch
 
 - Battle.net: **Waldenpond#11608**
+- Discord: **WaldenPond#6837**
 - Twitter: [@waldengaming](https://twitter.com/waldengaming)
 
 <!--
