@@ -8,12 +8,11 @@
 
 **[Ravenous Nameplates](https://github.com/waldenp0nd/ravNameplates/)** — “Cycles through four different nameplate configurations: enemy, friendly, all, none.”
 
-**[Ravenous Tracker](https://github.com/waldenp0nd/ravTracker/)** — “Track various mount farms in simple text format. ”
+**[Ravenous GPS](https://github.com/RavenousAddons/ravGPS/)** — “Let people know where you/your target are!”
 
 ### ☕️ Get in touch
 
-- Battle.net: **Waldenpond#11608**
-- Discord: **WaldenPond#6837**
+- Discord: [Ravenous Addons](https://discord.gg/dNfqnRf2fq)
 - Twitter: [@waldengaming](https://twitter.com/waldengaming)
 
 <!--
