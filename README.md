@@ -1,6 +1,10 @@
 # Hey, I’m Walden.
 
-### 📑 Select Projects
+### 📑 My Addons
+
+**[Secret Fish](https://github.com/RavenousAddons/SecretFish/)** - “Keep track of your progress on "Secret Fish of Mechagon" and "Secret Fish and Where to Find Them"”
+
+**[Did Firestorm Proc Yet?](https://github.com/RavenousAddons/DidFirestormProcYet/)** - “Simple, dependency-free tracking for your Firestorm procs, whenever those may be...”
 
 **[Ravenous For Shadowlands](https://github.com/RavenousAddons/ravFor/)** - “Keep track of your progress through the expansion!”
 
@@ -14,6 +18,7 @@
 
 ### ☕️ Get in touch
 
+- Discord: WaldenPond#0001
 - Discord: [Ravenous Addons](https://discord.gg/9XeTpbcjzu)
 - Twitter: [@waldengaming](https://twitter.com/waldengaming)
 
