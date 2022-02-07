@@ -15,7 +15,6 @@
 ### ☕️ Get in touch
 
 - Discord: WaldenPond#0001
-- Discord: [Ravenous Addons](https://discord.gg/9XeTpbcjzu)
 - Twitter: [@waldengaming](https://twitter.com/waldengaming)
 
 <!--
