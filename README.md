@@ -2,17 +2,17 @@
 
 ### 📑 My Addons
 
-**[Ravenous](https://github.com/waldenp0nd/ravenous/)** - “A personal AddOn for tracking World, Dungeon, and Raid Bosses which drop noteworthy loot: mounts, pets, toys, cosmetics, and items (consumable, container, recipes, quest items).”
-
-**[Secret Fish](https://github.com/RavenousAddons/SecretFish/)** - “Keep track of your progress on "Secret Fish of Mechagon" and "Secret Fish and Where to Find Them"”
-
-**[Oribos Flight Attendant](https://github.com/RavenousAddons/OribosFlightAttendant/)** — “Simply adds a native waypoint to your map when you’re in the Ring of Transference that points to the Flight Master.”
-
 **[Ravenous Mounts](https://github.com/RavenousAddons/ravMounts/)** — “Chooses the best Mount for the job without any set-up; it’s all based on your Mount Journal Favorites. Minimal in-game configuration to customise your summoning experience. Can even clone your target's mount (if you have it too)!”
 
 **[Ravenous Nameplates](https://github.com/waldenp0nd/ravNameplates/)** — “Cycles through four different nameplate configurations: enemy, friendly, all, none.”
 
 **[Ravenous GPS](https://github.com/RavenousAddons/ravGPS/)** — “Let people know where you/your target are!”
+
+**[Secret Fish](https://github.com/RavenousAddons/SecretFish/)** - “Keep track of your progress on "Secret Fish of Mechagon" and "Secret Fish and Where to Find Them"”
+
+**[Oribos Flight Attendant](https://github.com/RavenousAddons/OribosFlightAttendant/)** — “Simply adds a native waypoint to your map when you’re in the Ring of Transference that points to the Flight Master.”
+
+**[Ravenous](https://github.com/waldenp0nd/ravenous/)** - “A personal AddOn for tracking World, Dungeon, and Raid Bosses which drop noteworthy loot: mounts, pets, toys, cosmetics, and items (consumable, container, recipes, quest items).”
 
 ### ☕️ Get in touch
 
