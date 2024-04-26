@@ -9,7 +9,12 @@
 - **[Oribos Flight Attendant](https://github.com/RavenousAddons/OribosFlightAttendant/)** — “Simply adds a native waypoint to your map when you’re in the Ring of Transference that points to the Flight Master.”
 - **[Tol Barad When?](https://github.com/RavenousAddons/TolBaradWhen/)** — “Keep track of the next Tol Barad battle.”
 
-## 👉 Other Favourite “Must-Have” AddOns
+### Find my Addons elsewhere
+
+- [CurseForge](https://www.curseforge.com/members/waldenpond/projects)
+- [WoWInterface](https://www.wowinterface.com/downloads/author-217568.html)
+
+## 👉 Other Favourite “Must-Have” Addons
 
 - [Better Fishing](https://www.curseforge.com/wow/addons/better-fishing)
 - [BigDebuffs](https://www.curseforge.com/wow/addons/bigdebuffs)
